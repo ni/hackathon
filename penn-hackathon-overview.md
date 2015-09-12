@@ -40,8 +40,8 @@
 
 ### List of Online References
 * Sparkfun ESP8266 Thing Hookup Guide https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide/all
-* ESP8266 Developer Zone http://www.esp8266.com/wiki/doku.php
-* ESP8266 Community Wiki 
+* ESP8266 Developer Zone 
+* ESP8266 Community Wiki http://www.esp8266.com/wiki/doku.php
 * Arduino IDE https://www.arduino.cc/en/main/software
 * ESP8266 Community Wiki - Toolchains http://www.esp8266.com/wiki/doku.php?id=toolchain
 * Xtensa LX Microprocessor Datasheet http://ip.cadence.com/uploads/pdf/xtensalx_overview_handbook.pdf
