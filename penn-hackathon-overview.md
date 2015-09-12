@@ -79,6 +79,12 @@ Install the following software on their laptop (Windows, Mac, or Linux):
 
 ## Agenda
 Friday, September 18, 2015 
+
+| Time | Topic | Presenter(s) | Location
+| ---- | ----- | ------------ | --------
+| 6:00 pm – 6:30 pm | Dinner |  | Levine Hall Room 307
+
+
 | Time | Topic | Presenter(s) | Location
 | ---- | ----- | ------------ | --------
 | 6:00 pm – 6:30 pm | Dinner |  | Levine Hall Room 307
