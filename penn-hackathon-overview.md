@@ -1,3 +1,5 @@
+# National Instruments Visit Overview
+
 ## National Instruments Speakers:
 * David Whatley – Embedded Systems Group Manager and hiring manager
 * Scot Salmon – Embedded Systems Principal Design Engineer and expert in C++ design and implementation for embedded systems
@@ -37,14 +39,15 @@
 | Breadboard, wires, & resistors | 
 
 ### List of Online References
-* Sparkfun ESP8266 Thing Hookup Guide
-* ESP8266 Developer Zone
-* ESP8266 Community Wiki
-* Arduino IDE
-* ESP8266 Community Wiki - Toolchains
-* Xtensa LX Microprocessor Datasheet
-* ESP8266 Addon for Arduino IDE
+* Sparkfun ESP8266 Thing Hookup Guide https://learn.sparkfun.com/tutorials/esp8266-thing-hookup-guide/all
+* ESP8266 Developer Zone http://www.esp8266.com/wiki/doku.php
+* ESP8266 Community Wiki 
+* Arduino IDE https://www.arduino.cc/en/main/software
+* ESP8266 Community Wiki - Toolchains http://www.esp8266.com/wiki/doku.php?id=toolchain
+* Xtensa LX Microprocessor Datasheet http://ip.cadence.com/uploads/pdf/xtensalx_overview_handbook.pdf
+* ESP8266 Addon for Arduino IDE https://github.com/esp8266/Arduino
 * Neil Kolban's Book on ESP8266
+* This document https://gist.github.com/ScotSalmon/435277d0731280d5f880
 
 ## Students’ Preparations
 
