@@ -56,20 +56,20 @@ Students are encouraged to apply to the UPenn NI job posting before the hackatho
 ### Get ready for hacking
 Install the following software on their laptop (Windows, Mac, or Linux):
 * At least one of the following ESP8266 toolchains
-** RECOMMENDED: Arduino IDE (Windows, Mac, Linux)
-*** Arduino IDE 1.6.5 or later
-*** Arduino ESP8266 Addon
-** GCC with Linux (Linux)
-*** How to set up manually the GCC toolchain
-** VirtualBox VM (Windows, Mac, Linux)
-*** Build Environment Guide
+  * RECOMMENDED: Arduino IDE (Windows, Mac, Linux)
+    * Arduino IDE 1.6.5 or later
+    * Arduino ESP8266 Addon
+  * GCC with Linux (Linux)
+    * How to set up manually the GCC toolchain
+  * VirtualBox VM (Windows, Mac, Linux)
+    * Build Environment Guide
 * The latest ESP8266 SDK (universal, non-OS)
-** Lots of good documentation in ./document/EN/*
-** AT command set firmware in ./bin/at/*
-** Other SDK options include a Mesh SDK and an RTOS SDK.
+  * Lots of good documentation in ./document/EN/*
+  * AT command set firmware in ./bin/at/*
+  * Other SDK options include a Mesh SDK and an RTOS SDK.
 * The official Espressif Flash Download Tool
-** Use this to download the AT command set firmware or any other firmware built with Gcc toolchain.
-** (Arduino IDE will automatically download the firmware built in the IDE.)
+  * Use this to download the AT command set firmware or any other firmware built with Gcc toolchain.
+  * (Arduino IDE will automatically download the firmware built in the IDE.)
 * Review the ESP8266 Tutorial for Beginners.
 
 ## Staff on-duty
