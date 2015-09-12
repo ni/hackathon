@@ -83,11 +83,6 @@ Friday, September 18, 2015
 | Time | Topic | Presenter(s) | Location
 | ---- | ----- | ------------ | --------
 | 6:00 pm – 6:30 pm | Dinner |  | Levine Hall Room 307
-
-
-| Time | Topic | Presenter(s) | Location
-| ---- | ----- | ------------ | --------
-| 6:00 pm – 6:30 pm | Dinner |  | Levine Hall Room 307
 | 6:30 pm – 7:30 pm | Perspectives of a Hiring Manager | David Whatley | Levine Hall Room 307
 | 7:30 pm – 9:30 pm | Technical topic tbd (C++ and Embedded Systems, real-time OSes, Linux Realtime, etc.) | Scot Salmon, Erik Hons, Ken Sharp | Levine Hall Room 307
 | 9:30 pm – 10:00 pm | Hackathon intro! Designing and building IoT | Ken Sharp | Levine Hall Room 307
@@ -97,6 +92,7 @@ Friday, September 18, 2015
 | 9 am | Breakfast/Coffee |  | Greenberg Lounge
 
 Saturday, September 19, 2015
+
 | Time | Topic | Presenter(s) | Location
 | ---- | ----- | ------------ | --------
 | 10:00 am – 12:00 pm | Team Presentations (each team has 5 minutes to present their project and results) | EMBS Students | Levine Hall Room 307
@@ -104,6 +100,7 @@ Saturday, September 19, 2015
 | 12:10 pm | Lunch |  | Levine Hall Room 307
 
 Sunday, September 20, 2015
+
 | Time | Topic | Who | Location
 | ---- | ----- | --- | --------
 | 10:00 am – 3:00 pm | JOB INTERVIEWS | Selected EMBS Students | Levine Hall Rooms 313 & 311
