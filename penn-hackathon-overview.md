@@ -78,7 +78,8 @@ Install the following software on their laptop (Windows, Mac, or Linux):
 * Lab Assistant
 
 ## Agenda
-Friday, September 18, 2015 
+
+### Friday, September 18, 2015 
 
 | Time | Topic | Presenter(s) | Location
 | ---- | ----- | ------------ | --------
@@ -91,7 +92,7 @@ Friday, September 18, 2015
 | 3 am | Pizza |  | Greenberg Lounge
 | 9 am | Breakfast/Coffee |  | Greenberg Lounge
 
-Saturday, September 19, 2015
+### Saturday, September 19, 2015
 
 | Time | Topic | Presenter(s) | Location
 | ---- | ----- | ------------ | --------
@@ -99,7 +100,7 @@ Saturday, September 19, 2015
 | 12:00 pm | Award ceremony | NI Reps | Levine Hall Room 307
 | 12:10 pm | Lunch |  | Levine Hall Room 307
 
-Sunday, September 20, 2015
+### Sunday, September 20, 2015
 
 | Time | Topic | Who | Location
 | ---- | ----- | --- | --------
