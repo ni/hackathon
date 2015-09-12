@@ -24,15 +24,15 @@
 ## Embedded Systems Hackathon Challenge
 
 ### Create an Internet of Things device that uses the following parts: 
-| Description |	Part #
+| Description | Part #
 | ----------- | ------
-| SparkFun ESP8266 Thing |	WRL-13231
-| SparkFun FTDI Basic Breakout - 3.3V |	DEV-09873
-| Arduino Stackable Header - 10 Pin |	PRT-11376
+| SparkFun ESP8266 Thing | WRL-13231
+| SparkFun FTDI Basic Breakout - 3.3V | DEV-09873
+| Arduino Stackable Header - 10 Pin | PRT-11376
 | SparkFun 9 Degrees of Freedom IMU Breakout - LSM9DS0 | SEN-12636
-| Humidity and Temperature Sensor - RHT03	| SEN-10167
+| Humidity and Temperature Sensor - RHT03 | SEN-10167
 | Temperature Sensor - TMP36 | SEN-10988
-| One Wire Digital Temperature Sensor - DS18B20	| SEN-00245
+| One Wire Digital Temperature Sensor - DS18B20 | SEN-00245
 | USB mini cable (programming) & USB micro cable (power) |
 | Breadboard, wires, & resistors | 
 
@@ -79,28 +79,28 @@ Install the following software on their laptop (Windows, Mac, or Linux):
 
 ## Agenda
 Friday, September 18, 2015 
-| Time	| Topic	| Presenter(s)	| Location
+| Time | Topic | Presenter(s) | Location
 | ---- | ----- | ------------ | --------
-| 6:00 pm – 6:30 pm	| Dinner	| 	| Levine Hall Room 307
-| 6:30 pm – 7:30 pm	| Perspectives of a Hiring Manager	| David Whatley	| Levine Hall Room 307
-| 7:30 pm – 9:30 pm	| Technical topic tbd (C++ and Embedded Systems, real-time OSes, Linux Realtime, etc.)	| Scot Salmon, Erik Hons, Ken Sharp	| Levine Hall Room 307
-| 9:30 pm – 10:00 pm	| Hackathon intro! Designing and building IoT	| Ken Sharp	| Levine Hall Room 307
-| 10:00 pm – 10:00 am	| Hackathon challenge!	| 	| Detkin Lab
-| 12 midnight	| Coffee + Snacks	| 	| Greenberg Lounge
-| 3 am	| Pizza	| 	| Greenberg Lounge
-| 9 am	| Breakfast/Coffee	| 	| Greenberg Lounge
+| 6:00 pm – 6:30 pm | Dinner |  | Levine Hall Room 307
+| 6:30 pm – 7:30 pm | Perspectives of a Hiring Manager | David Whatley | Levine Hall Room 307
+| 7:30 pm – 9:30 pm | Technical topic tbd (C++ and Embedded Systems, real-time OSes, Linux Realtime, etc.) | Scot Salmon, Erik Hons, Ken Sharp | Levine Hall Room 307
+| 9:30 pm – 10:00 pm | Hackathon intro! Designing and building IoT | Ken Sharp | Levine Hall Room 307
+| 10:00 pm – 10:00 am | Hackathon challenge! |  | Detkin Lab
+| 12 midnight | Coffee + Snacks |  | Greenberg Lounge
+| 3 am | Pizza |  | Greenberg Lounge
+| 9 am | Breakfast/Coffee |  | Greenberg Lounge
 
 Saturday, September 19, 2015
-| Time	| Topic	| Presenter(s)	| Location
+| Time | Topic | Presenter(s) | Location
 | ---- | ----- | ------------ | --------
-| 10:00 am – 12:00 pm	| Team Presentations (each team has 5 minutes to present their project and results)	| EMBS Students	| Levine Hall Room 307
-| 12:00 pm	| Award ceremony	| NI Reps	| Levine Hall Room 307
-| 12:10 pm	| Lunch	| 	| Levine Hall Room 307
+| 10:00 am – 12:00 pm | Team Presentations (each team has 5 minutes to present their project and results) | EMBS Students | Levine Hall Room 307
+| 12:00 pm | Award ceremony | NI Reps | Levine Hall Room 307
+| 12:10 pm | Lunch |  | Levine Hall Room 307
 
 Sunday, September 20, 2015
-| Time	| Topic	| Who	| Location
+| Time | Topic | Who | Location
 | ---- | ----- | --- | --------
-| 10:00 am – 3:00 pm	| JOB INTERVIEWS	| Selected EMBS Students	| Levine Hall Rooms 313 & 311
+| 10:00 am – 3:00 pm | JOB INTERVIEWS | Selected EMBS Students | Levine Hall Rooms 313 & 311
 
 ## NI Interviews
 NI engineers will select a few engineers to fill an interview schedule on Sunday.
