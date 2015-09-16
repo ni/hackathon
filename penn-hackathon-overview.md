@@ -79,7 +79,7 @@ Install the following software on their laptop (Windows, Mac, or Linux):
 | ---- | ----- | ------------ | --------
 | 6:00 pm – 6:30 pm | *Dinner* |  | Levine Hall Room 307
 | 6:30 pm – 7:30 pm | Perspectives of a Hiring Manager | David Whatley | Levine Hall Room 307
-| 7:30 pm – 9:30 pm | Technical topic tbd (C++ and Embedded Systems, real-time OSes, Linux Realtime, etc.) | Scot Salmon, Erik Hons, Ken Sharp | Levine Hall Room 307
+| 7:30 pm – 9:30 pm | Technical presentations | Scot Salmon, Erik Hons, Ken Sharp | Levine Hall Room 307
 | 9:30 pm – 10:00 pm | Hackathon intro! Designing and building IoT | Ken Sharp | Levine Hall Room 307
 | 10:00 pm – 10:00 am | Hackathon challenge! |  | Detkin Lab
 | 12 midnight | *Coffee + Snacks* |  | Greenberg Lounge
