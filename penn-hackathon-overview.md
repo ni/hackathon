@@ -1,10 +1,10 @@
 # National Instruments Visit Overview
 
 ## National Instruments Speakers:
-* David Whatley – Embedded Systems Group Manager and hiring manager
-* Scot Salmon – Embedded Systems Principal Design Engineer and expert in C++ design and implementation for embedded systems
-* Ken Sharp – Embedded Systems Design Senior Engineer and expert in maker/hackathon type projects
-* Erik Hons – Embedded Systems Principal Design Engineer and expert in embedded systems architectures
+* [David Whatley](https://www.linkedin.com/pub/david-whatley/2/148/505) – Embedded Systems Group Manager and hiring manager
+* [Scot Salmon](https://www.linkedin.com/pub/scot-salmon/4/326/436) – Embedded Systems Principal Design Engineer and expert in C++ design and implementation for embedded systems
+* [Ken Sharp](https://www.linkedin.com/pub/ken-sharp/2/36a/543) – Embedded Systems Design Senior Engineer and expert in maker/hackathon type projects
+* [Erik Hons](https://www.linkedin.com/pub/erik-hons/24/529/a01) – Embedded Systems Principal Design Engineer and expert in embedded systems architectures
 
 ## Overview of the 12-hour OVERNIGHT event:
 * Resume writing and interview skills presentation: "Cracking the Interview Code"
